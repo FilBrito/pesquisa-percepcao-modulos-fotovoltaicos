@@ -2,7 +2,7 @@
 
 ## 1. Apresentação
 
-Este repositório reúne dados e documentação relacionados a uma pesquisa sobre a percepção do consumidor brasileiro acerca das estratégias de fim de vida de módulos fotovoltaicos (*photovoltaic modules* — PV).
+Este repositório reúne dados e documentação relacionados a uma pesquisa sobre a percepção do consumidor brasileiro sobre as estratégias de fim de vida de módulos fotovoltaicos.
 
 A pesquisa busca compreender como os consumidores percebem aspectos relacionados ao conhecimento e à utilização da tecnologia fotovoltaica, à durabilidade e ao desempenho dos módulos, à percepção de utilidade e valor residual, à intenção comportamental e às expectativas sobre sustentabilidade e regulação.
 
