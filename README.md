@@ -52,3 +52,11 @@ pesquisa-percepcao-modulos-fotovoltaicos/
 Para informações adicionais sobre a pesquisa ou sobre os materiais disponibilizados neste repositório, por favor entre em contato via filipe.brito@aln.senaicimatec.edu.br.
 
 ---
+
+## Licença
+
+Os materiais deste repositório estão disponibilizados sob a licença [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), salvo indicação expressa em contrário.
+
+Você pode compartilhar e adaptar os materiais, inclusive para fins comerciais, desde que atribua o devido crédito à autoria, indique a licença e informe se foram realizadas alterações.
+
+A licença não substitui as obrigações éticas e legais aplicáveis à proteção de dados pessoais, à confidencialidade e aos materiais de terceiros.
